@@ -129,16 +129,18 @@ Na análise estatística dos dados podemos ver que o cálculo do desvio-padrão 
 ## 🤝 COLABORADORES
 
 Marcel Hikaru Yamanaka: </br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikaruyamanaka/)
-[![Github](https://img.shields.io/badge/Github)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikaruyamanaka/)</br>
+[![GitHub](https://img.shields.io/badge/Github)]()
+</br> 
 </br>
 Layanne Mary: </br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layannemaryu/)
-[![Github](https://img.shields.io/badge/Github)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layannemaryu/)</br>
+[![GitHub](https://img.shields.io/badge/Github)]()
+</br>
 </br>
 Carolyne Oliveira: </br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolyne-oliveira-5ba98a29b/)
-[![Github](https://img.shields.io/badge/Github)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolyne-oliveira-5ba98a29b/)</br>
+[![GitHub](https://img.shields.io/badge/Github)](https://github.com/CarolyneS14)
 
 
  
