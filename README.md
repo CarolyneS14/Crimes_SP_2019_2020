@@ -1,4 +1,4 @@
-<img src="/capa.jpg">
+## ESTUDO DE REGISTROS DE CRIMES OCORRIDOS EM SÃO PAULO NOS ANOS DE 2019 E 2020
 
 ## ANÁLISE GERAL
 
@@ -26,8 +26,6 @@ Para este projeto foi considerada a base de dados contendo algumas informações
 * Cidade: cidade do registro dos crimes, São Paulo.
 * Estado: estado de registro dos crimes, São Paulo.
 * Endereço: endereços das delegacias presentes na base.
-
-
 
   **Total de crimes registrado por ano:**
 
@@ -108,6 +106,7 @@ Na análise estatística dos dados podemos ver que o cálculo do desvio-padrão 
 
  A análise detalhada dos dados não só ajuda a entender os desafios atuais, mas também adaptar as políticas e estratégias futuras para garantir a segurança dos cidadãos e de seu patrimônio.
 
+[![looker](/capa.jpg)](https://lookerstudio.google.com/u/0/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/p_jdk89muujd)
 
 ## LINKS ÚTEIS  
 * [DataBase](https://forms.gle/ZJopyXdvf4d1uF9h7)  
@@ -129,21 +128,21 @@ Na análise estatística dos dados podemos ver que o cálculo do desvio-padrão 
 ## 🤝 COLABORADORES
 
 Marcel Hikaru Yamanaka: </br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikaruyamanaka/)</br>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikaruyamanaka/)</br>
 </br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hikaruyamanaka)
 </br> 
 </br>
 Layanne Mary: </br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layannemaryu/)</br>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layannemaryu/)</br>
 </br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/layannemaryus)
 </br>
 </br>
 Carolyne Oliveira: </br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolyne-oliveira-5ba98a29b/)</br>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolyne-oliveira-5ba98a29b/)</br>
 </br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarolyneS14)
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarolyneS14)
 
 
  
