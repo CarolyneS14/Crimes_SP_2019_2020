@@ -109,25 +109,6 @@ Na análise estatística dos dados podemos ver que o cálculo do desvio-padrão 
  A análise detalhada dos dados não só ajuda a entender os desafios atuais, mas também adaptar as políticas e estratégias futuras para garantir a segurança dos cidadãos e de seu patrimônio.
 
 
-## TOMADA DE DECISÕES
-
-Os dados estão em um arquivo csv fornecido pela Alura, realizamos a limpeza dos dados com SQL no BigQuery.  
-
-Transformamos através da função SPLIT a coluna \`string\_field\_0\` em várias colunas tomando como base o (;) ponto e vírgula como separador das variáveis. A função REPLACE remove qualquer ponto das variáveis numéricas e CAST modifica o tipo de variável para facilitar a análise descritiva e exploratória. 
-
-Havia uma coluna repetida que foi adicionada a coluna Roubo de veículos através da função SUM se tornando uma só variável. 
-
-Após a limpeza da base de dados que chamamos de \`base\_crimes\` calculamos a quantidade de delegacias presentes na base de dados através da função COUNT. E a função SUM para retornar a quantidade total de cada crime presente na base de dados agrupada por ano.
-
-Separamos a tabela \`base\_crimes\` em duas para facilitar no uso do dashboard e criamos duas tabelas chamada \`base\_crimes\_2019\` e \`base\_crimes\_2020\`. 
-
-Para usarmos nos gráficos de mapa de balão utilizamos o método DESPIVOTAR para  transformar dados de um formato “largo” para um formato “longo” e assim classificar nossa base por delegacias e facilitar o uso.
-
-Criamos a tabela \`base\_crimes\_Qtd\_por\_Delegacia\`. Adicionamos as colunas Estado e Cidades.
-
-Utilizamos o Colab para adicionar os endereços das delegacias na tabela \`base\_crimes\_Qtd\_por\_Delegacia\` para auxiliar na precisão do uso do gráfico de mapa balão.
-
-
 ## LINKS ÚTEIS  
 * [DataBase](https://forms.gle/ZJopyXdvf4d1uF9h7)  
 * [BigQuery](https://console.cloud.google.com/bigquery?sq=497144207362:d5c4bf6139ac407fa9b9057fc3811e90)  
