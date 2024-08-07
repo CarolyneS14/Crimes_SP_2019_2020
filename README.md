@@ -2,6 +2,7 @@
 
 * Apresentado por: Marcel Hikaru Yamanaka, Layanne Mary e Carolyne Oliveira
 
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 
 ## ANÁLISE GERAL
 
