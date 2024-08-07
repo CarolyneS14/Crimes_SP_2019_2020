@@ -27,7 +27,7 @@ Para este projeto foi considerada a base de dados contendo algumas informações
 * Roubo a banco: quantidade de roubos a bancos.  
 * Ano: Ano do registro dos crimes.
 
-<iframe src="https://lookerstudio.google.com/u/0/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/p_qyl702stid" width="600" height="400"></iframe>
+
 
   **Total de crimes registrado por ano:**
 
@@ -108,7 +108,6 @@ Na análise estatística dos dados podemos ver que o cálculo do desvio-padrão 
 
  A análise detalhada dos dados não só ajuda a entender os desafios atuais, mas também adaptar as políticas e estratégias futuras para garantir a segurança dos cidadãos e de seu patrimônio.
 
-<iframe src="https://lookerstudio.google.com/u/0/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/p_9h8ar5e7id" width="600" height="400"></iframe>
 
 ## TOMADA DE DECISÕES
 
@@ -143,18 +142,20 @@ Utilizamos o Colab para adicionar os endereços das delegacias na tabela \`base\
 
 
 ## LINGUAGENS
-SQL
-Python
+- SQL
+- Python
 
 ## 🤝 COLABORADORES
-Carolyne Oliveira: 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolyne-oliveira-5ba98a29b/)
-</br>
+
 Marcel Hikaru Yamanaka: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikaruyamanaka/)
 </br>
 Layanne Mary:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layannemaryu/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layannemaryu/)
+</br>
+Carolyne Oliveira: 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolyne-oliveira-5ba98a29b/)
+
 
  
 
