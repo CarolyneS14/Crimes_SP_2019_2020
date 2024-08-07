@@ -2,7 +2,7 @@
 
 * Apresentado por: Marcel Hikaru Yamanaka, Layanne Mary e Carolyne Oliveira
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+<a href="[https://lookerstudio.google.com/u/0/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/p_jdk89muujd](https://lookerstudio.google.com/u/0/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/p_jdk89muujd)">Dashboard</a>
 
 ## ANÁLISE GERAL
 
