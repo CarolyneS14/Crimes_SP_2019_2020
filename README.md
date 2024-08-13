@@ -109,11 +109,11 @@ Na análise estatística dos dados podemos ver que o cálculo do desvio-padrão 
 [![looker](/capa.jpg)](https://lookerstudio.google.com/u/0/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/p_jdk89muujd)
 
 ## LINKS ÚTEIS  
-* [DataBase](https://forms.gle/ZJopyXdvf4d1uF9h7)  
+* [DataBase](https://drive.google.com/file/d/1x4nvZkXUobA2WrvRgagEi1MtcbGNVblF/view?usp=drive_link)  
 * [BigQuery](https://console.cloud.google.com/bigquery?sq=497144207362:d5c4bf6139ac407fa9b9057fc3811e90)  
 * [Colab](https://colab.research.google.com/drive/1ihhcgKT96jBTv331adNjlbGnGmW015A4?usp=sharing)  
-* [Relatório](https://drive.google.com/file/d/11-nGlwBtrFHq0Mc1IBUzxYSInuJP32gg/view?usp=drive_link)  
-* [Dashboard](https://lookerstudio.google.com/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/id24D)
+* [Relatório](https://drive.google.com/file/d/1HKkhViY7OVJA1dX78wys6Fh_ae-TTmIm/view?usp=drive_link)  
+* [Dashboard](https://lookerstudio.google.com/u/0/reporting/0f69fb72-f1cc-4ea5-80eb-425fcfc569d7/page/p_jdk89muujd)
 
 ## FERRAMENTAS
 - Big Query
