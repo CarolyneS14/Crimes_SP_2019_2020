@@ -105,35 +105,13 @@ GROUP BY
 
   # Separar as tebalas por ano
   ## 2019
+  CREATE TABLE `crimessp.2019e2020.base_crimes_2019` AS
 SELECT *
 FROM `crimessp.2019e2020.base_crimes`
 WHERE Ano = 2019;
 
   ## 2020 
+  CREATE TABLE `crimessp.2019e2020.base_crimes_2020` AS
 SELECT *
 FROM `crimessp.2019e2020.base_crimes`
 WHERE Ano = 2020;
-
-  #Add coluna de Estado para uso no mapa na tabela de 2019
-CREATE OR REPLACE TABLE `crimessp.2019e2020.base_crimes_2019`
-AS
-SELECT *,
-  'SP' AS Estado,
-  'São Paulo' AS Cidade
-FROM `crimessp.2019e2020.base_crimes_2019`;
-
-  ##Add coluna de Estado para uso do mapa na tabela de 2020
-CREATE OR REPLACE TABLE `crimessp.2019e2020.base_crimes_2020`
-AS
-SELECT *,
-  'SP' AS Estado,
-  'São Paulo' AS Cidade
-FROM `crimessp.2019e2020.base_crimes_2020`;
-
-##Add coluna de Estado para uso do mapa na tabela de qtd_por_delegacia
-CREATE OR REPLACE TABLE `crimessp.2019e2020.base_crimes_Qtd_por_Delegacia`
-AS
-SELECT *,
-  'SP' AS Estado,
-  'São Paulo' AS Cidade
-FROM `crimessp.2019e2020.base_crimes_Qtd_por_Delegacia`;
